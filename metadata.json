@@ -1,0 +1,8 @@
+{
+  "name": "Macau Slim City — 澳門天際線城市模擬",
+  "description": "Cities: Skylines 2 inspired 3D Macau urban simulation with real road alignment, autonomous merchant land trading, dynamic events, milestones, and traffic optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

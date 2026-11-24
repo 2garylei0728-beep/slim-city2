@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/CityHUD.tsx","./src/components/TitleOverlay.tsx","./src/render/CityViewport.tsx","./src/render/buildingMeshes.ts","./src/render/textures.ts","./src/sim/economy.ts","./src/sim/geometry.ts","./src/sim/sim.test.ts","./src/sim/types.ts"],"version":"5.9.3"}
